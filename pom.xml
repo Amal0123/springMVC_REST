@@ -19,7 +19,7 @@
 	    <url>http://www.gnu.org/licenses/gpl.txt</url>
 	  </license>
 	</licenses>
-  
+        <gcloud.plugin.version>117</gcloud.plugin.version>
 	<developers>
 		<developer>
 			<name>Walid YAICH</name>
